@@ -1,7 +1,11 @@
 /* styles go here */
 .input-elem {
   display: block;
-  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.input-elem:last-child {
+  margin-bottom: 0;
 }
 
 .field-element {
